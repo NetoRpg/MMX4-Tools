@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMX Unpacker", "MMX4 ARC Unpacker\MMX Unpacker.csproj", "{8DB3F450-B621-42E4-AD65-9CF38684F6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMX4 Dumper", "MMX4 Dumper\MMX4 Dumper.csproj", "{CF1518BA-4F8E-4AFB-A4B0-EE7016FF8702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB3F450-B621-42E4-AD65-9CF38684F6AD}.Debug|x86.ActiveCfg = Debug|x86
+		{8DB3F450-B621-42E4-AD65-9CF38684F6AD}.Debug|x86.Build.0 = Debug|x86
+		{8DB3F450-B621-42E4-AD65-9CF38684F6AD}.Release|x86.ActiveCfg = Release|x86
+		{8DB3F450-B621-42E4-AD65-9CF38684F6AD}.Release|x86.Build.0 = Release|x86
+		{CF1518BA-4F8E-4AFB-A4B0-EE7016FF8702}.Debug|x86.ActiveCfg = Debug|x86
+		{CF1518BA-4F8E-4AFB-A4B0-EE7016FF8702}.Debug|x86.Build.0 = Debug|x86
+		{CF1518BA-4F8E-4AFB-A4B0-EE7016FF8702}.Release|x86.ActiveCfg = Release|x86
+		{CF1518BA-4F8E-4AFB-A4B0-EE7016FF8702}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B174245-1C52-47D4-A520-E694078BA2B2}
+	EndGlobalSection
+EndGlobal
